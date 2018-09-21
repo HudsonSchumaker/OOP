@@ -1,4 +1,4 @@
-package br.com.schumaker.hudson.oo.polimorfismo3;
+package br.com.schumaker.hudson.oo.polimorfismo4;
 
 /**
  *

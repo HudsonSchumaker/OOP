@@ -16,7 +16,6 @@ public abstract class Conta {
         } else {
             saldo -= valor;
             System.out.println("Saque efetuado com sucesso!");
-
         }
     }
 

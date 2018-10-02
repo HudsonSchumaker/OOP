@@ -11,8 +11,9 @@ public class ResourceBundleExample {
 
     public static void main(String[] args) {
         Locale enEn = new Locale("en", "En");
-        Locale deDe = new Locale("de", "DE");
+        Locale deDe = new Locale("de", "De");
         Locale frFr = new Locale("fr", "Fr");
+        Locale ptBr = new Locale("pt", "Br");
         ResourceBundle bundle = ResourceBundle.getBundle("LabelsBundle", deDe);
         System.out.println(bundle.getString("s2"));
         
@@ -20,6 +21,9 @@ public class ResourceBundleExample {
         System.out.println(bundle.getString("s2"));
         
         bundle = ResourceBundle.getBundle("LabelsBundle",enEn);
+        System.out.println(bundle.getString("s2"));
+        
+        bundle = ResourceBundle.getBundle("LabelsBundle",ptBr);
         System.out.println(bundle.getString("s2"));
     }
 }

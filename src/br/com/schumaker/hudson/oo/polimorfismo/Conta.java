@@ -2,7 +2,7 @@ package br.com.schumaker.hudson.oo.polimorfismo;
 
 /**
  *
- * @author hudsonschumaker
+ * @author hudson schumaker
  */
 public abstract class Conta {
 

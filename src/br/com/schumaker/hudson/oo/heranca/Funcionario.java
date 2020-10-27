@@ -2,7 +2,7 @@ package br.com.schumaker.hudson.oo.heranca;
 
 /**
  *
- * @author hudsonschumaker
+ * @author hudson schumaker
  */
 public class Funcionario extends Pessoa {
 

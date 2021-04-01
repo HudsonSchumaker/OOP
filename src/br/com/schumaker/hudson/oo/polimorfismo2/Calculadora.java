@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 /**
  *
- * @author hudson.schumaker
+ * @author Hudson Schumaker
  */
 public class Calculadora {
     BigDecimal n1 = new BigDecimal(10);

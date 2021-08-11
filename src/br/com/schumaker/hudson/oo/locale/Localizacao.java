@@ -39,4 +39,8 @@ public class Localizacao {
         NumberFormat moedaFormat = NumberFormat.getCurrencyInstance(x);  //para moedas
         System.out.println(moedaFormat.format(13.23));
     }
+    
+     private String formatTotal(double value) {
+        return String.format(Locale.GERMAN, "%,.2f", value);
+    }
 }

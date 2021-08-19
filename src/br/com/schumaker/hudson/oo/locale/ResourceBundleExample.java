@@ -5,7 +5,7 @@ import java.util.ResourceBundle;
 
 /**
  *
- * @author hudson schumaker
+ * @author Hudson Schumaker
  */
 public class ResourceBundleExample {
 

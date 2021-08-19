@@ -11,7 +11,7 @@ import java.util.Locale;
  */
 public class Localizacao {
 
-    //https://www.oracle.com/technetwork/java/javase/java8locales-2095355.html
+    // https://www.oracle.com/technetwork/java/javase/java8locales-2095355.html
     public Localizacao() {
     }
 

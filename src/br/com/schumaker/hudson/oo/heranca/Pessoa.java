@@ -5,7 +5,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * @author hudson schumaker
+ * @author Hudson Schumaker
  */
 public class Pessoa {
 

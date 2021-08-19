@@ -7,7 +7,7 @@ import java.util.Locale;
 
 /**
  *
- * @author hudson schumaker
+ * @author Hudson Schumaker
  */
 public class Localizacao {
 

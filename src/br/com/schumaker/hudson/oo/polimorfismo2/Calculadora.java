@@ -15,7 +15,7 @@ public class Calculadora {
         print(n1, n2, new Subtracao());
     }
     
-    private void print(BigDecimal n1, BigDecimal n2, Operacao o){
+    private void print(BigDecimal n1, BigDecimal n2, Operacao o) {
         System.out.println(o.calcula(n1, n2));
     }
 }

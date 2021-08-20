@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author hudson schumaker
+ * @author Hudson schumaker
  */
 public class MainConta {
 

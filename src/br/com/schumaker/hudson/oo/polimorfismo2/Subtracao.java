@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 /**
  *
- * @author hudson.schumaker
+ * @author Hudson.schumaker
  */
 public class Subtracao implements Operacao{
 

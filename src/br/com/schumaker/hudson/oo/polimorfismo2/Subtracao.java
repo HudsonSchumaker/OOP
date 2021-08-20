@@ -6,7 +6,7 @@ import java.math.BigDecimal;
  *
  * @author Hudson Schumaker
  */
-public class Subtracao implements Operacao{
+public class Subtracao implements Operacao {
 
     @Override
     public BigDecimal calcula(BigDecimal n1, BigDecimal n2) {

@@ -2,7 +2,7 @@ package br.com.schumaker.hudson.oo.polimorfismo;
 
 /**
  *
- * @author hudson schumaker
+ * @author Hudson schumaker
  */
 public class ContaPoupanca extends Conta{
 

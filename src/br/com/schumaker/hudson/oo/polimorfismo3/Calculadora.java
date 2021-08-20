@@ -17,7 +17,7 @@ public class Calculadora {
         print(n1, n2, (a,b) -> a.divide(b));
     }
     
-    private void print(BigDecimal n1, BigDecimal n2, Operacao o){
+    private void print(BigDecimal n1, BigDecimal n2, Operacao o) {
         System.out.println(o.calcula(n1, n2));
     }
 }

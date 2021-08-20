@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 /**
  *
- * @author hudson schumaker
+ * @author Hudson schumaker
  */
 public interface Operacao {
     BigDecimal calcula(BigDecimal n1,  BigDecimal n2);

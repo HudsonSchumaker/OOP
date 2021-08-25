@@ -2,7 +2,7 @@ package br.com.schumaker.hudson.oo.polimorfismo5;
 
 /**
  *
- * @author Hudson.Schumaker
+ * @author Hudson Schumaker
  */
 public class Carro extends Veiculo{
     

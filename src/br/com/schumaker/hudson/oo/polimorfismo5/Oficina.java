@@ -4,7 +4,7 @@ import java.util.Random;
 
 /**
  *
- * @author hudson.schumaker
+ * @author Hudson.schumaker
  */
 public class Oficina {
 

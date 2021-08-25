@@ -2,7 +2,7 @@ package br.com.schumaker.hudson.oo.polimorfismo5;
 
 /**
  *
- * @author hudson.schumaker
+ * @author Hudson.schumaker
  */
 public class Bicicleta extends Veiculo{
 

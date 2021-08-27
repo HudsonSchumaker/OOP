@@ -2,7 +2,7 @@ package br.com.schumaker.hudson.oo.polimorfismo2;
 
 /**
  *
- * @author hudson.schumaker
+ * @author Hudson.schumaker
  */
 public class TestaCalculadora {
     public static void main(String[] args) {

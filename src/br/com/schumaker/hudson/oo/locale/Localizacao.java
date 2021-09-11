@@ -33,7 +33,7 @@ public class Localizacao {
         DateFormat timeFormat = DateFormat.getTimeInstance(DateFormat.MEDIUM, x);
         System.out.println(timeFormat.format(new Date()));
 
-        NumberFormat numberFormat = NumberFormat.getNumberInstance(x); //para números
+        NumberFormat numberFormat = NumberFormat.getNumberInstance(x); // para números
         System.out.println(numberFormat.format(13.23));
 
         NumberFormat moedaFormat = NumberFormat.getCurrencyInstance(x);  //para moedas

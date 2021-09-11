@@ -36,7 +36,7 @@ public class Localizacao {
         NumberFormat numberFormat = NumberFormat.getNumberInstance(x); // para números
         System.out.println(numberFormat.format(13.23));
 
-        NumberFormat moedaFormat = NumberFormat.getCurrencyInstance(x);  //para moedas
+        NumberFormat moedaFormat = NumberFormat.getCurrencyInstance(x);  // para moedas
         System.out.println(moedaFormat.format(13.23));
     }
     
